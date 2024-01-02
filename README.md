@@ -3,6 +3,10 @@
 ![Screenshot (1316)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/a4221185-77f4-4e7e-b28e-129ec6de0a45)
 ![Screenshot (1320)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/7e6fa487-1a34-4208-b908-50748cacd535)
 ![Uploading Screenshot (1322).png…]()
+![Screenshot (1323)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/6e606cd4-a39e-47ce-a218-4f98a607a0fb)
+![Screenshot (1324)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/b8c0777b-5cd9-4739-ad47-97587816b1a1)
+![Screenshot (1325)](https://github.com/RashidHasan/WatchWiseApp/assets/![Screenshot (1357)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/5c026b98-b1c4-4bf8-84d3-a5f032618657)
+136935583/94ba4780-528e-4b91-a643-9bca5f3ba514)
 
 
 # Getting Started with Create React App
