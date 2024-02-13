@@ -1,11 +1,11 @@
 
 ![PearsonLogo](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/397e479c-0367-429a-b787-8bda48f8d58c)
 
-## WatchWise
+# WatchWise
 ### Description
 WatchWise is a feature-rich and user-friendly movie discovery and recommendation platform designed to revolutionize the way users explore, watch, and interact with movies. Whether you're a casual moviegoer or a dedicated cinephile, WatchWise offers a comprehensive suite of tools and features to enhance your movie-watching experience.
 
-##Features
+## Features
 
 ### 1. Personalized Recommendations
 Utilize advanced algorithms to analyze user preferences, viewing history, and ratings to offer personalized movie recommendations tailored to each user's tastes and interests.
@@ -37,6 +37,14 @@ Prioritize accessibility by ensuring compatibility with both iOS and Android dev
 ### 10. Security and Privacy
 Prioritize user security and privacy by implementing robust data encryption, secure authentication methods, and transparent privacy policies to safeguard user information and ensure a safe and trustworthy environment for movie enthusiasts.
 
+
+![Screenshot (1315)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/31e06663-0194-48b9-adcb-7a4f8f7f69a4)
+![Screenshot (1316)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/a4221185-77f4-4e7e-b28e-129ec6de0a45)
+![Screenshot (1320)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/7e6fa487-1a34-4208-b908-50748cacd535)
+
+![Screenshot (1323)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/6e606cd4-a39e-47ce-a218-4f98a607a0fb)
+![Screenshot (1324)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/b8c0777b-5cd9-4739-ad47-97587816b1a1)
+
 ## Usage
 
 - Sign Up/Login: Create a new account or log in with existing credentials.
@@ -55,12 +63,12 @@ Prioritize user security and privacy by implementing robust data encryption, sec
 - Install dependencies using npm install.
 - Run the application using npm start.
 
-Contributing
+## Contributing
 
-Contributions are welcome! Please follow the contribution guidelines before making any pull requests.
+- Contributions are welcome! Please follow the contribution guidelines before making any pull requests.
 License
 
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 
 
