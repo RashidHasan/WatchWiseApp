@@ -1,4 +1,6 @@
 
+![PearsonLogo](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/397e479c-0367-429a-b787-8bda48f8d58c)
+
 ![Screenshot (1315)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/31e06663-0194-48b9-adcb-7a4f8f7f69a4)
 ![Screenshot (1316)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/a4221185-77f4-4e7e-b28e-129ec6de0a45)
 ![Screenshot (1320)](https://github.com/RashidHasan/WatchWiseApp/assets/136935583/7e6fa487-1a34-4208-b908-50748cacd535)
