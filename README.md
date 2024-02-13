@@ -82,6 +82,13 @@ Prioritize user security and privacy by implementing robust data encryption, sec
 - Node.js: Employed as the backend JavaScript runtime environment for executing server-side code.
 - Express.js: Utilized as the web application framework for building robust and scalable backend APIs.
 
+## Contributing
+
+- Contributions are welcome! Please follow the contribution guidelines before making any pull requests.
+License
+
+- This project is licensed under the MIT License.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
