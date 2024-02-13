@@ -63,15 +63,24 @@ Prioritize user security and privacy by implementing robust data encryption, sec
 - Install dependencies using npm install.
 - Run the application using npm start.
 
-## Contributing
-
-- Contributions are welcome! Please follow the contribution guidelines before making any pull requests.
-License
-
-- This project is licensed under the MIT License.
 
 
+## Technologies used
 
+### Frontend
+
+- React: Utilized for building the user interface components and managing application state efficiently.
+- React Router: Employed for handling navigation and routing within the single-page application.
+- HTML5 & CSS3: Used for structuring and styling the frontend interface, ensuring a visually appealing and responsive design.
+- Bootstrap: Leveraged for rapid frontend development, providing pre-designed UI components and responsive layout utilities.
+- Axios: Utilized for making HTTP requests to fetch data from APIs and interact with the backend server asynchronously.
+- Redux: Implemented for state management, enabling centralized management of application state and data flow.
+- JWT Authentication: Integrated JSON Web Token (JWT) authentication for securing user authentication and authorization processes.
+
+### Backend
+
+- Node.js: Employed as the backend JavaScript runtime environment for executing server-side code.
+- Express.js: Utilized as the web application framework for building robust and scalable backend APIs.
 
 # Getting Started with Create React App
 
